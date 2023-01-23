@@ -7,16 +7,16 @@
 
 
 <div align="left">
-<a herf="https://instagram.com/smath_org"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="left" width="20" style="hight: 10%"/><a/>
+<a href="https://instagram.com/smath_org"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="left" width="20" style="hight: 10%"/><a/>
 </div>
 
 
 <div align="right">
-<a herf="mailto:amiralismath@gmail.com"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="right" width="20" style="hight: 10%"/><a/>
+<a href="mailto:amiralismath@gmail.com"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="right" width="20" style="hight: 10%"/><a/>
 </div>
 
 <div align="center">
-<a herf="https://discord.gg/moonteam"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="center" width="20" style="hight: 10%"/><a/>
+<a href="https://discord.gg/moonteam"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="center" width="20" style="hight: 10%"/><a/>
 </div>
 
 
