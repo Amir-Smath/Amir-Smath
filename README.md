@@ -38,38 +38,34 @@
     
 </div>
     
+----
+    
 <div align="left">
     
-<h2>Skill's</h2>
+<h1>Skill's</h1><br/>
     
-    <h5>C#</h5>
-    <div align="center">
-    <h5>ff</h5>
-    </div><br/>
+<h5>C#</h5>
+<div align="right"><h6>10% ||||||||||</h6>
+</div><br/>
         
-    <h5>C++</h5>
-    <div align="center">
-    <h5>ff</h5>
-    </div><br/><br/>
+<h5>C++</h5>
+<div align="right"><h6>60% |||||||||||||||||||||||||||||</h6>
+</div><br/><br/>
         
-    <h5>JavaScript</h5>
-    <div align="center">
-    <h5>ff</h5>
-    </div><br/>
+<h5>JavaScript</h5>
+<div align="right"><h6>80% |||||||||||||||||||||||||||||||||||||||||||||</h6>
+</div><br/>
     
-    <h5>ReScript</h5>
-    <div align="center">
-    <h5>ff</h5>
-    </div><br/>
-    <br/>
-    <h5>HTML</h5>
-    <div align="center">
-    <h5>ff</h5>
-    </div><br/>
+<h5>ReScript</h5>
+<div align="right"><h6>30% ||||||||||||||||||||</h6>
+</div><br/>
+
+<h5>HTML</h5>
+<div align="right"><h6>23% ||||||||||||||||</h6>
+</div><br/>
         
-    <h5>Css</h5>
-    <div align="center">
-    <h5>ff</h5>
-        </div><br/>
+<h5>Css</h5>
+<div align="right"><h6>97% ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</h6>
+</div><br/>
         
-            </div>
+</div>
