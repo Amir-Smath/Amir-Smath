@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="center" width"40" style="height: 20%" />
+<h2>I'm Smath</h2>
+</div>
 
-<!--
-**Amir-Smath/Amir-Smath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+<a herf="https://instagram.com/smath_org"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="left" width="20" style="hight: 10%"/><a/>
+</div>
+
+
+<div align="right">
+<a herf="mailto:amiralismath@gmail.com"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="right" width="20" style="hight: 10%"/><a/>
+</div>
+
+<div align="center">
+<a herf="https://discord.gg/moonteam"><img src="https://cdn.discordapp.com/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="center" width="20" style="hight: 10%"/><a/>
+</div>
+
+
