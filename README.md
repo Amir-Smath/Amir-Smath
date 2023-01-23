@@ -25,9 +25,51 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amir-Smath&theme=swift" align="center" height="185p" style="width: 52%" /></div>
 </div><br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Smath&theme=swift" align="center" height="180p" right="width: 50%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Smath&theme=swift" align="center" height="180p" style="width: 50%" /></div>
 <br/><br/>
     
+<div align="center">
+    
 ```js
+    
 </>: MoonTeam
+    
 ```
+    
+</div>
+    
+<div align="left">
+    
+<h2>Skill's</h2>
+    
+    <h5>C#</h5>
+    <div align="center">
+    <h5>ff</h5>
+    </div><br/>
+        
+    <h5>C++</h5>
+    <div align="center">
+    <h5>ff</h5>
+    </div><br/><br/>
+        
+    <h5>JavaScript</h5>
+    <div align="center">
+    <h5>ff</h5>
+    </div><br/>
+    
+    <h5>ReScript</h5>
+    <div align="center">
+    <h5>ff</h5>
+    </div><br/>
+    <br/>
+    <h5>HTML</h5>
+    <div align="center">
+    <h5>ff</h5>
+    </div><br/>
+        
+    <h5>Css</h5>
+    <div align="center">
+    <h5>ff</h5>
+        </div><br/>
+        
+            </div>
