@@ -21,8 +21,12 @@
 
 <div align="center">
 <h1>Ask Me Aboute</h1>
-</div>
     
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amir-Smath&theme=swift" align="center" height="185p" style="width: 52%" /></div>
+</div><br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Smath&theme=swift" align="center" height="180p" right="width: 50%" /></div>
+<br/><br/>
     
 ```js
 </>: MoonTeam
