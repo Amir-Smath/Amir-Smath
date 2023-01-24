@@ -30,11 +30,6 @@
     
 <div align="center">
     
-```js
-    
-</>: MoonTeam
-    
-```
     
 </div>
     
