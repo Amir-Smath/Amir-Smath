@@ -20,47 +20,42 @@
 ----
 
 <div align="center">
-<h1>Ask Me Aboute</h1>
-    
+<h1>My Aboute</h1>
+
+<h3>My name is Smath(Amirali)17 years old(12, Nov, 2005)</h3>
+<h5>Web & Application Developer</h5>
+<br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amir-Smath&theme=swift" align="center" height="185p" style="width: 52%" /></div>
 </div><br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Smath&theme=swift" align="center" height="180p" style="width: 50%" /></div>
 <br/><br/>
-    
-<div align="center">
-    
-    
-</div>
-    
-----
-    
-<div align="left">
-    
-<h1>Skill's</h1><br/>
-    
-<h5>C#</h5>
-<div align="right"><h6>60% |||||||||||||||||||||||||||||</h6>
-</div><br/>
-        
-<h5>C++</h5>
-<div align="right"><h6>10% ||||||||||</h6>
-</div><br/><br/>
-        
-<h5>JavaScript</h5>
-<div align="right"><h6>80% |||||||||||||||||||||||||||||||||||||||||||||</h6>
-</div><br/>
-    
-<h5>ReScript</h5>
-<div align="right"><h6>30% ||||||||||||||||||||</h6>
-</div><br/>
 
-<h5>HTML</h5>
-<div align="right"><h6>97% ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</h6>
-</div><br/>
-        
-<h5>Css</h5>
-<div align="right"><h6>86% |||||||||||||||||||||||||||||||||||||||||||||||||</h6>
-</div><br/>
-        
+<div align="center">
+
+
+</div>
+
+---
+
+<div align="center">
+<h1>My Discord</h1>
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067179181626105987/MyDiscord.png" style="width: 70%" />    
+</div>
+
+----
+
+<div align="center">
+
+<h1>My Skills</h1><br/>
+
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418679396024340/C.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418677810573412/C.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678309695548/Html.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678079000576/Css.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678578122783/JavaScript.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678976589834/TypeScript.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678783655978/ReScript.png" style="width: 35%" />
+<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418679161131069/Arduino.png" style="width: 35%" />
+
 </div>
