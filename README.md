@@ -22,18 +22,3 @@
 <br/><br/>
 <div align="center">
 </div>
-<div align="center">
-<h1>My Discord</h1>
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067179181626105987/MyDiscord.png" style="width: 70%" />    
-</div><br/><br/>
-<div align="center">
-<h1>My Skills</h1><br/>
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418679396024340/C.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418677810573412/C.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678309695548/Html.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678079000576/Css.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678578122783/JavaScript.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678976589834/TypeScript.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418678783655978/ReScript.png" style="width: 35%" />
-<img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067418679161131069/Arduino.png" style="width: 35%" />
-</div>
