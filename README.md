@@ -3,7 +3,7 @@
 <h2>I'm Smath</h2>
 </div>
 <div align="left">
-<a href="https://instagram.com/smath_org"><img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067189862740013177/instagram.png" align="left" width="100" style="hight: 40%"/><a/>
+<a href="https://instagram.com/smath._"><img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067189862740013177/instagram.png" align="left" width="100" style="hight: 40%"/><a/>
 </div>
 <div align="right">
 <a href="mailto:amiralismath@gmail.com"><img src="https://cdn.discordapp.com/attachments/1043156910213431306/1067189473043042304/Gmail.png" align="right" width="100" style="hight: 40%"/><a/>
